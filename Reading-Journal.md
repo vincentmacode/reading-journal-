@@ -2,7 +2,7 @@
 
 A reading adventure, books & discovery
 
-**Total books read:** Unkown
+**Total books read in 2026:** 1
 
 **2026:**
 <br>
