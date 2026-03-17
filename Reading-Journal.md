@@ -1,6 +1,6 @@
 # 📚 Vincent's Reading Journal
 
-A reading adventure, books & discovery
+A reading adventure, books & discoveries 
 
 **Total books read in 2026:** 1
 
