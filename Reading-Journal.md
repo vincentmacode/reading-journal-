@@ -6,4 +6,5 @@ A reading adventure, books & discoveries
 
 **2026:**
 <br>
-1. 📚 <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
+1. 📚 <b>Learning How to Learn</b> by *Barbara Oakley* ~ How to Succeed in School Without Spending All Your Time Studying.
+2. 🌱 <b>Garden Hacks</b> by *Filip Johansson* ~ 70 Smart, Sustainable Tips for Gardeners.
